@@ -1,0 +1,60 @@
+
+1. Access API from below URLs:
+	(i) http://hotelnci.azurewebsites.rest/UserService/booking
+	(ii) http://hotelnci.azurewebsites.rest/UserService/users/Dublin
+	
+2. Set authentication information in header of request as HRS uses Basic Auth for the authentication purposes.
+
+3. You will get response as below in XML format
+	(i) First response
+		<BookingInterface>
+			<Email>akash@example.com</Email>
+			<FirstName>Akash</FirstName>
+			<FromDate>2018-07-30</FromDate>
+			<LastName>Hande</LastName>
+			<ModeOfCommute>bus</ModeOfCommute>
+			<PhoneNumber>9960554997</PhoneNumber>
+			<ReasonForVisit>holiday</ReasonForVisit>
+			<ToDate>2018-07-03</ToDate>
+		</BookingInterface>
+		
+	(ii) Second response
+		<Interface>
+			<Address>Andersons Quay</Address>
+			<City>Cork</City>
+			<Id>9</Id>
+			<Name>Jurys </Name>
+			<Price>112.0</Price>
+			<Rating>3</Rating>
+		</Interface>
+
+4. Use response as per your requirement.
+
+5. Sample source class for consumption in java
+
+		import com.sun.jersey.api.client.Client;
+		import com.sun.jersey.api.client.ClientResponse;
+		import com.sun.jersey.api.client.WebResource;
+		import com.sun.jersey.api.client.filter.HTTPBasicAuthFilter;
+
+		public class consume {
+
+		  public static void main(String[] args) {
+			try {
+
+				Client client = Client.create();
+				client.addFilter(new HTTPBasicAuthFilter("user", "password"));
+				WebResource webResource = client.resource("http://hotelnci.azurewebsites.rest/UserService/users/Dublin");
+				ClientResponse response = webResource.accept("application/xml").get(ClientResponse.class);
+				if (response.getStatus() != 200) { throw new RuntimeException("Failed : HTTP error code : "
+					+ response.getStatus()
+					);
+				}
+				String output = response.getEntity(String.class);
+				System.out.println("Output from Server .... \n");
+				System.out.println(output);
+			  } catch (Exception e) {
+				e.printStackTrace();
+			  }
+			}
+		}

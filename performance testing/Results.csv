@@ -1,0 +1,181 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1532114921866,2024,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,218444,9282,5,5,1283,0,939
+1532114922370,1568,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,218825,9282,5,5,828,0,435
+1532114922867,1071,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,218630,9282,5,5,395,0,140
+1532114923367,950,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,218315,9282,5,5,398,0,57
+1532114923939,437,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-3,text,true,,967,629,6,6,437,0,179
+1532114923939,437,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-2,text,true,,967,629,6,6,437,0,179
+1532114923893,490,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-1,text,true,,967,629,6,6,490,0,170
+1532114924318,168,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-4,text,true,,967,629,6,6,168,0,122
+1532114923866,703,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,218509,9282,6,6,305,0,72
+1532114924569,167,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-5,text,true,,967,629,6,6,167,0,124
+1532114924367,546,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,218304,9282,7,7,217,0,43
+1532114924913,166,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-6,text,true,,967,629,7,7,166,0,119
+1532114925074,397,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,82468,6683,8,8,55,0,0
+1532114925083,462,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,82467,6683,8,8,54,0,0
+1532114925075,471,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,82461,6683,8,8,71,0,0
+1532114925184,453,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,82466,6683,8,8,72,0,0
+1532114924865,812,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,218203,9282,8,8,218,0,50
+1532114925677,209,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-7,text,true,,967,629,9,9,209,0,164
+1532114925434,499,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,82461,6683,9,9,186,0,0
+1532114925778,284,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,82466,6683,9,9,42,0,0
+1532114925367,744,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,218338,9282,9,9,283,0,59
+1532114926111,160,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-8,text,true,,967,629,9,9,160,0,118
+1532114925866,794,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,218702,9282,10,10,340,0,58
+1532114926585,286,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,82460,6683,10,10,48,0,0
+1532114926368,588,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,218227,9282,10,10,233,0,49
+1532114926957,173,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-10,text,true,,967,629,10,10,173,0,121
+1532114926969,227,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,82468,6683,10,10,41,0,0
+1532114927829,259,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,82467,6683,10,10,56,0,0
+1532114926661,3204,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-9,text,true,,967,629,10,10,3204,0,3143
+1532114930564,356,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,82474,6683,10,10,122,0,57
+1532114932333,894,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,6661,10563,10,10,329,0,61
+1532114932408,913,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,6668,10563,10,10,332,0,81
+1532114932407,954,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,6668,10563,10,10,353,0,82
+1532114932500,937,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,6668,10563,10,10,352,0,53
+1532114932795,744,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,6661,10563,10,10,367,0,101
+1532114932924,747,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,6668,10563,10,10,382,0,126
+1532114933732,499,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,6667,10563,10,10,234,0,59
+1532114934059,647,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,6668,10563,10,10,222,0,51
+1532114934949,534,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,6667,10563,10,10,256,0,47
+1532114935880,355,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-3,text,false,,3128,5093,10,10,113,0,63
+1532114935975,312,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-2,text,false,,3128,5093,10,10,98,0,47
+1532114936015,351,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-1,text,false,,3128,5093,10,10,106,0,48
+1532114936090,572,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-4,text,false,,3128,5093,10,10,153,0,52
+1532114936192,487,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-5,text,false,,3128,5093,10,10,164,0,61
+1532114936325,463,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-6,text,false,,3128,5093,10,10,312,0,191
+1532114936884,256,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-7,text,false,,3128,5093,10,10,91,0,48
+1532114937360,252,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-8,text,false,,3128,5093,10,10,91,0,45
+1532114937782,673,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,6668,10563,10,10,243,0,48
+1532114938136,335,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-10,text,false,,3128,5093,10,10,102,0,51
+1532114939258,724,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,14240,10463,10,10,224,0,52
+1532114939310,743,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,14240,10463,10,10,293,0,44
+1532114939389,668,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,14246,10463,10,10,236,0,61
+1532114939686,911,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,14247,10463,10,10,390,0,86
+1532114940165,796,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,14246,10463,10,10,378,0,200
+1532114940638,633,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,14247,10463,10,10,314,0,67
+1532114941110,248,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-9,text,false,,3128,5093,10,10,94,0,52
+1532114941496,531,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,14247,10463,10,10,239,0,57
+1532114939813,3429,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,14246,10463,10,10,317,0,61
+1532114939704,3638,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,14247,10463,10,10,368,0,70
+1532114943494,580,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,58854,11967,10,10,133,0,57
+1532114943568,524,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,58854,11967,10,10,109,0,53
+1532114943564,591,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,58856,11967,10,10,99,0,46
+1532114944107,524,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,58855,11967,10,10,161,0,55
+1532114944473,458,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,58848,11967,10,10,106,0,55
+1532114944382,600,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,14247,10463,10,10,275,0,85
+1532114944782,470,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,58848,11967,10,10,113,0,53
+1532114945539,459,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,58855,11967,10,10,100,0,52
+1532114946753,450,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,58855,11967,10,10,112,0,59
+1532114946853,470,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,58848,11967,10,10,108,0,53
+1532114948493,751,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,58854,11967,10,10,137,0,45
+1532114979048,772,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-3,text,true,,14378,12752,10,10,360,0,52
+1532114922867,5230,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-3,,false,,399326,67432,10,10,2046,51723,604
+1532114979064,780,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-1,text,true,,14372,12752,10,10,345,0,51
+1532114979129,715,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-2,text,true,,14379,12752,10,10,298,0,51
+1532114922369,5750,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-2,,false,,399524,67432,10,10,2456,51725,883
+1532114921866,6253,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-1,,false,,399146,67432,10,10,2976,51725,1404
+1532114979605,905,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-4,text,true,,14379,12752,10,10,291,0,70
+1532114923367,5420,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-4,,false,,399025,67432,10,10,1985,51724,495
+1532114979845,1061,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,218582,9282,10,10,383,0,0
+1532114979821,1088,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,218431,9282,10,10,378,0,0
+1532114979845,1140,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,218644,9282,10,10,353,0,0
+1532114980909,199,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-3,text,true,,967,629,10,10,199,0,148
+1532114980906,226,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-2,text,true,,967,629,10,10,226,0,151
+1532114980986,188,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-1,text,true,,967,629,10,10,188,0,128
+1532114980225,1054,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-8,text,true,,14378,12752,10,10,370,0,138
+1532114925367,4187,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-8,,false,,399042,67432,10,10,1594,51726,531
+1532114979904,1821,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-7,text,true,,14378,12752,10,10,441,0,71
+1532114924865,5137,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-7,,false,,398897,67432,10,10,1725,51723,647
+1532114980511,1245,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,218472,9282,10,10,162,0,0
+1532114981757,107,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-4,text,true,,967,629,10,10,107,0,63
+1532114981806,808,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,82461,6683,10,10,105,0,48
+1532114981281,1457,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,218384,9282,10,10,617,0,0
+1532114981872,930,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,82467,6683,10,10,294,0,60
+1532114981831,997,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,82467,6683,10,10,218,0,43
+1532114982739,116,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-8,text,true,,967,629,10,10,116,0,57
+1532114981726,1140,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,218619,9282,10,10,337,0,0
+1532114980972,1932,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-10,text,true,,14372,12752,10,10,930,0,106
+1532114926368,4811,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-10,,false,,398930,67432,10,10,2089,51725,483
+1532114982867,155,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-7,text,true,,967,629,10,10,155,0,95
+1532114982563,490,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,82460,6683,10,10,209,0,105
+1532114982176,984,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-6,text,true,,14377,12752,10,10,618,0,214
+1532114924366,7069,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-6,,false,,399011,67432,10,10,2166,51727,813
+1532114982296,930,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-5,text,true,,14379,12752,10,10,551,0,120
+1532114923865,7638,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-5,,false,,399200,67432,10,10,2216,51723,601
+1532114982904,545,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,218432,9282,10,10,172,0,0
+1532114983226,467,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,218252,9282,10,10,204,0,0
+1532114983162,566,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,218516,9282,10,10,226,0,0
+1532114983693,157,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-5,text,true,,967,629,10,10,157,0,86
+1532114983729,124,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-6,text,true,,967,629,10,10,124,0,71
+1532114983553,379,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,82461,6683,10,10,117,0,59
+1532114983721,352,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,82467,6683,10,10,122,0,58
+1532114984218,567,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-9,text,true,,14378,12752,10,10,224,0,51
+1532114925866,7193,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-9,,false,,399418,67432,10,10,4639,51726,3539
+1532114984548,335,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,82466,6683,10,10,37,0,0
+1532114984552,341,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,82649,6683,10,10,41,0,0
+1532114984786,786,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,218117,9282,10,10,274,0,0
+1532114985572,95,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-9,text,true,,967,629,10,10,95,0,49
+1532114983450,3096,"https://maps.googleapis.com/maps/api/geocode/json?address=Destiny+Student+-+New+Mill,+Mill+Street+The+Liberties,+Dublin&key=AIzaSyCP-GsydZLMAnksvjIpmQbanaWEcBOdm-Q",200,OK,Thread Group 1-10,text,true,,967,629,10,10,3096,0,3051
+1532114986366,257,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,82488,6683,10,10,43,0,0
+1532114987245,321,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,82473,6683,10,10,107,0,51
+1532114989476,620,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,6667,10563,10,10,229,0,57
+1532114989665,763,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,6667,10563,10,10,282,0,62
+1532114989690,921,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,6667,10563,10,10,302,0,60
+1532114989917,714,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,6668,10563,10,10,381,0,153
+1532114990795,552,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,6668,10563,10,10,227,0,56
+1532114991756,524,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,6668,10563,10,10,276,0,75
+1532114992750,456,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-3,text,false,,3128,5093,10,10,96,0,48
+1532114993082,248,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-1,text,false,,3128,5093,10,10,92,0,52
+1532114993265,250,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-2,text,false,,3128,5093,10,10,89,0,46
+1532114993285,273,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-4,text,false,,3128,5093,10,10,91,0,46
+1532114993486,655,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,6667,10563,10,10,241,0,60
+1532114994002,342,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-8,text,false,,3128,5093,10,10,140,0,59
+1532114990936,3478,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,6661,10563,10,10,223,0,50
+1532114991746,2778,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,6668,10563,10,10,2463,0,2272
+1532114994429,504,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,6668,10563,10,10,222,0,52
+1532114994933,260,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-6,text,false,,3128,5093,10,10,97,0,49
+1532114996229,576,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,14240,10463,10,10,244,0,56
+1532114996354,601,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,14247,10463,10,10,256,0,56
+1532114996794,385,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-9,text,false,,3128,5093,10,10,132,0,60
+1532114996538,709,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,14248,10463,10,10,274,0,66
+1532114997067,340,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-7,text,false,,3128,5093,10,10,149,0,96
+1532114997177,343,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-5,text,false,,3128,5093,10,10,116,0,73
+1532114997587,388,http://hotelnci.azurewebsites.net/index.jsp,200,"Embedded resource download error:http://hotelnci.azurewebsites.net/bootstrap/js/bootstrap.bundle.min.js code:404 message:, ",Thread Group 1-10,text,false,,3128,5093,10,10,170,0,59
+1532114997368,665,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,14246,10463,10,10,216,0,49
+1532114998217,542,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,14248,10463,10,10,264,0,54
+1532114996582,2812,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,14430,10463,10,10,271,0,63
+1532115000203,924,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,14247,10463,10,10,262,0,60
+1532115000316,847,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-3,text,true,,58855,11967,10,10,99,0,49
+1532115000431,850,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,14246,10463,10,10,274,0,74
+1532115000466,905,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-1,text,true,,58848,11967,10,10,154,0,65
+1532115000544,1641,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,14246,10463,10,10,356,0,117
+1532115000999,1197,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,14246,10463,10,10,308,0,49
+1532115000758,1447,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-2,text,true,,58848,11967,10,10,401,0,65
+1532115001544,1017,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-8,text,true,,58855,11967,10,10,667,0,54
+1532115002271,485,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-6,text,true,,58848,11967,10,10,119,0,65
+1532115002906,429,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-4,text,true,,58854,11967,10,10,101,0,49
+1532115004639,552,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-9,text,true,,58855,11967,10,10,185,0,46
+1532115004793,457,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-7,text,true,,58855,11967,10,10,106,0,51
+1532115005697,545,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-5,text,true,,58848,11967,10,10,99,0,41
+1532115005708,543,http://hotelnci.azurewebsites.net/LoginController,200,OK,Thread Group 1-10,text,true,,58848,11967,10,10,123,0,42
+1532115036137,715,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-3,text,true,,14372,12752,10,10,356,0,47
+1532114979820,5309,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-3,,false,,399121,67432,10,10,1706,51723,453
+1532115036345,647,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-1,text,true,,14377,12752,9,9,282,0,55
+1532114979845,5422,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-1,,false,,399345,67432,9,9,1901,51726,478
+1532115037179,666,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-2,text,true,,14378,12752,8,8,244,0,66
+1532114979845,6277,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-2,,false,,399285,67432,8,8,2137,51723,497
+1532115037534,767,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-8,text,true,,14378,12752,7,7,231,0,56
+1532114981280,5295,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-8,,false,,399087,67432,7,7,2331,51726,390
+1532115037731,708,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-6,text,true,,14377,12752,6,6,338,0,117
+1532114983162,3550,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-6,,false,,399401,67432,6,6,1485,51728,431
+1532115038310,542,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-4,text,true,,14378,12752,5,5,237,0,55
+1532114980511,6612,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-4,,false,,399357,67432,5,5,1559,51730,534
+1532115040163,758,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-9,text,true,,14379,12752,4,4,263,0,46
+1532114984785,4412,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-9,,false,,398848,67432,4,4,1495,51725,321
+1532115040222,744,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-7,text,true,,14379,12752,3,3,249,0,68
+1532114981726,7516,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-7,,false,,399322,67432,3,3,1615,51725,492
+1532115041215,786,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-5,text,true,,14379,12752,2,2,245,0,51
+1532114983226,7052,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-5,,false,,398954,67432,2,2,3677,51724,2640
+1532115041224,866,http://hotelnci.azurewebsites.net/ProcessingController,200,OK,Thread Group 1-10,text,true,,14379,12752,1,1,478,0,47
+1532114982904,7460,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-10,,false,,399141,67432,1,1,4676,51726,3351
