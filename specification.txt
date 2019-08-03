@@ -8,10 +8,10 @@
 3. You will get response as below in XML format
 	(i) First response
 		<BookingInterface>
-			<Email>akash@example.com</Email>
-			<FirstName>Akash</FirstName>
+			<Email>sumit@example.com</Email>
+			<FirstName>Sumit</FirstName>
 			<FromDate>2018-07-30</FromDate>
-			<LastName>Hande</LastName>
+			<LastName>Chawan</LastName>
 			<ModeOfCommute>bus</ModeOfCommute>
 			<PhoneNumber>9960554997</PhoneNumber>
 			<ReasonForVisit>holiday</ReasonForVisit>
